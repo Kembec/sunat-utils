@@ -1,6 +1,6 @@
 {
   "name": "@kembec/sunat-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A concise utility library for validating RUC and DNI, calculating IGV, and formatting currencies specifically for Peruvian standards.",
   "main": "./dist/sunat.js",
   "types": "./dist/sunat.d.ts",

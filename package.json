@@ -1,7 +1,7 @@
 {
 	"name": "@kembec/sunat-utils",
-	"version": "1.0.2",
-	"description": "Actu",
+	"version": "1.0.3",
+	"description": "Sunat Utils es una biblioteca de código abierto para automatizar validaciones y cálculos relacionados con las normativas tributarias de SUNAT en Perú.",
 	"main": "./dist/sunat.js",
 	"module": "./dist/index.mjs",
 	"types": "./dist/sunat.d.ts",

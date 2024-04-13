@@ -1,0 +1,21 @@
+# Node.js artefacts
+node_modules
+
+# Git and Github related
+.git
+.github
+
+# Source files
+src
+
+# Configuration files
+*.config.js
+.prettierrc
+*.json
+!package.json
+
+# License
+LICENSE
+
+# Test files
+tests
